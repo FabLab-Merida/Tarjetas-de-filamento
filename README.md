@@ -1,4 +1,4 @@
-# TarjetasDeFilamento
+# Tarjetas de filamento
 Muestras de filamento para los usuarios editadas originalmente de las tarjetas de el proyecto VORON.
   https://www.printables.com/es/model/270495-voron-design-filament-cards-caddy/files
 
